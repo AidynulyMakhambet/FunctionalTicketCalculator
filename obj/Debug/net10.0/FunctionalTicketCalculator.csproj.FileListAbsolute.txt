@@ -1,0 +1,14 @@
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\bin\Debug\net10.0\FunctionalTicketCalculator.exe
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\bin\Debug\net10.0\FunctionalTicketCalculator.deps.json
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\bin\Debug\net10.0\FunctionalTicketCalculator.runtimeconfig.json
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\bin\Debug\net10.0\FunctionalTicketCalculator.dll
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\bin\Debug\net10.0\FunctionalTicketCalculator.pdb
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.AssemblyInfoInputs.cache
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.AssemblyInfo.cs
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.dll
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\obj\Debug\net10.0\refint\FunctionalTicketCalculator.dll
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.pdb
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.genruntimeconfig.cache
+C:\Users\Makha\Desktop\FunctionalTicketCalculator\obj\Debug\net10.0\ref\FunctionalTicketCalculator.dll
