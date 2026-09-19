@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunctionalTicketCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d12212a94902f2191757ad5a478b8f13a6246826")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunctionalTicketCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunctionalTicketCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
